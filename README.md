@@ -8,7 +8,6 @@ A simple Google Keep clone built using React. This web application allows you to
 - Search for notes using a search bar.
 - Update existing notes with new titles and content.
 - Delete unwanted notes.
-- Responsive design for various screen sizes.
 
 ## Technologies Used
 
@@ -20,7 +19,7 @@ A simple Google Keep clone built using React. This web application allows you to
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/google-keep-clone.git`
+1. Clone the repository: `git clone https://github.com/Aayush-047/google-keep-clone.git`
 2. Navigate to the project directory: `cd google-keep-clone`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -33,6 +32,9 @@ A simple Google Keep clone built using React. This web application allows you to
 - To update a note, click the "Edit" button on an existing note, make changes, and click the "Update" button.
 - To delete a note, click the "Delete" button on an existing note.
 - Use the search bar to search for notes by title or content.
+
+# Demo
+https://64ddcbe926417b52cd843e79--bucolic-wisp-d8a340.netlify.app/
 
 ## Contributing
 
